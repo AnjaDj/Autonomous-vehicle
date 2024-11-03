@@ -13,9 +13,11 @@ For more information about joy-car visit 🏃‍♀️ : https://joycar.joy-it.n
 You are currently on the main branch. Beside the main there are 3 more :
 
  1. 🔧 hardware_branch  
-     - 📁 KiCad models for electronic components
+     - 📁 KiCad system schema
+     - 📁 KiCad models and footprints for used components
  2. 💻 software_branch
-     - 📃 Source code of developed functionalities  adjusted for specified MCU
-     - 📚 Supporting libraries
+     - 📃 Source C code of developed functionalities
+     - 📃 Obstacle avoidance algorithm
+     - 📚 Supporting C libraries
  4. 📟 application_branch
      - 📃 Source code for PC GUI application
