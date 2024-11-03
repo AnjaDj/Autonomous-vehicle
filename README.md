@@ -15,7 +15,7 @@ You are currently on the main branch. Beside the main there are 3 more :
  1. 🔧 hardware_branch  
      - 📁 KiCad system schema
      - 📁 KiCad models and footprints for used components
- 2. 💻 software_branch
+ 2. 💻 firmware_branch
      - 📃 Source C code of developed functionalities
      - 📃 Obstacle avoidance algorithm
      - 📚 Supporting C libraries
